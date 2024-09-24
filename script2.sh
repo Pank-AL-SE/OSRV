@@ -1,0 +1,1 @@
+pidgin | grep "$proc_name"
